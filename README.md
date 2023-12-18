@@ -1,1 +1,11 @@
-# Andressa de Vargas Fernandes
+<h1 align="left">Projeto Shelf Talk Universe</h1>
+<h2 align= "left">Introdução</h2>
+<p align="justify">A prática de leitura no Brasil tem sido deixada de lado pelos cidadãos, por fatores que devem ser analisados, como a falta de estímulo, falta de estrutura, fatores sociopolíticos, entre outros. Outro fator que atrapalha essa questão é a própria vontade do indivíduo de não perder seu tempo livre com leitura, algo que necessita de concentração e dedicação, sendo que há outras mídias que lhe aprazem mais e permitem obter dopamina imediata (internet, celulares, computadores, televisores, etc.). Porém, os benefícios dessa prática não podem ser ignorados, pois a leitura estimula a criatividade, o pensamento crítico, a concentração, combate o estresse e melhora o vocabulário e a escrita (o que é ainda mais importante, visto que a taxa de analfabetismo no país é de 5,6%). Por essas razões, esse projeto busca incentivar as pessoas a lerem através de um website.
+</p>
+<h2 align="left">Metas</h2>
+<p align="justify">O website vai incentivar a leitura, com o auxílio dos seguintes recursos:
+<ul><strong>- Doações de livros:</strong> pessoas que tiverem livros para doação podem postar na plataforma e as pessoas que tiverem interesse podem entrar em contato com o remetente da postagem, onde eles poderão conversar sobre.</ul>
+<ul><strong>-Testes de preferência: </strong> a pessoa interessada em ler um tipo de livro específico, poderá fazer um teste de preferências, que a fará ser direcionada à uma página onde ela poderá ver livros que combinam com as suas preferências. Nessa página será visualizada a capa e a sinopse do livro, e haverá três abas de opção onde ela irá responder se já leu, se ficou interessada, ou se não ficou interessada. Se ela ficou interessada, poderá direcionar esse livro a uma Biblioteca virtual, onde ela irá guardar os livros que ela já leu, que parou de ler, e que irá ler.</ul>
+<ul><strong>-Avaliação de livros:</strong> ela também pode contar com o recurso de avaliar o livro lido de 1 a 5 estrelas, e poderá lançar sua opinião na plataforma através de comentários, o que libera o próximo tópico.</ul>
+<ul><strong>Clube do livro:</strong> a pessoa poderá abrir tópicos de discussão sobre o livro lido, onde outras pessoas poderão dizer sua opinião, explicar trechos, e demonstrar seus sentimentos referentes à leitura.</ul>
+<ul><strong>-Perfil do usuário:</strong> e claro, haverá um perfil onde se guardará todas as atividades na conta.</ul>
