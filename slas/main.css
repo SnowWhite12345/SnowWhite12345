@@ -5,8 +5,8 @@
 }
 
 body > header {
-    background-color: black;
-    color: yellow;
+    background-color: #3D3D3D;
+    color: #ffffff;
     padding: 16px 0;
 }
 
@@ -20,7 +20,7 @@ header li {
     display: inline;
 }
 header li a{
-    color: aliceblue;
+    color: #84B026;
     text-decoration: none;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: 500;
@@ -56,15 +56,23 @@ section h2, .articles article{
 }
 
 #sports{
-    background-color: aquamarine;
+    background-color: #217373;
 }
 
 #economy{
-    background-color: red;
+    background-color: #235a6e;
+}
+
+#policy{
+    background-color: aquamarine;
 }
 
 #sports .articles article a{
-    background-color: blue;
+    background-color: #161F30;
+}
+
+#world{
+    background-color: aqua;
 }
 
 .articles h3{
@@ -84,7 +92,7 @@ section h2, .articles article{
 .articles article a{
     text-decoration: none;
     background-color:black;
-    color: yellow;
+    color: #ffffff;
     padding: 8px;
     display: inline-block;
     font-weight: 700;
