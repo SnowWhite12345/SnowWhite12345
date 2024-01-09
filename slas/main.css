@@ -2,12 +2,11 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
-    font-family: 'Kalnia', serif;
 }
 
 body > header {
-    background-color: #3D3D3D;
-    color: #ffffff;
+    background-color: #103838;
+    color: #38c2c2;
     padding: 16px 0;
 }
 
@@ -21,7 +20,7 @@ header li {
     display: inline;
 }
 header li a{
-    color: #84B026;
+    color: #38c2c2;
     text-decoration: none;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: 500;
@@ -57,23 +56,23 @@ section h2, .articles article{
 }
 
 #sports{
-    background-color: #217373;
+    background-color: #164b4b;
 }
 
 #economy{
-    background-color: #235a6e;
+    background-color: #1b5f5f;
 }
 
 #policy{
-    background-color: aquamarine;
+    background-color: #217373;
 }
 
 #sports .articles article a{
-    background-color: #161F30;
+    background-color: black;
 }
 
 #world{
-    background-color: aqua;
+    background-color: #278787;
 }
 
 .articles h3{
@@ -82,7 +81,7 @@ section h2, .articles article{
 }
 
 .articles article p, .articles article a{
-    font-family: 'Caveat', cursive;
+    font-family: Arial, Helvetica, sans-serif
 }
 
 .articles article h3{
